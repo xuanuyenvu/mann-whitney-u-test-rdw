@@ -1,4 +1,4 @@
-ID,CTRL_Gestures,CTRL_Move,INT_Effortless,INT_Coherent,WALK_Natural,CTRL_Events,ENV_Reactive,VIS_Engage,MOVE_Natural,OBJ_Realistic,ANT_Predict,EXP_Explore,CS_Delay,CS_Dizzy,CS_Disorient,CS_ComfortMove,CS_EyeStrain,CS_Nausea,CS_Triggers
+ID,CTRL_Gestures,CTRL_Move,CTRL_Effortless,CTRL_Coherent,CTRL_Natural_Walk,PRE_Events,PRE_Reactive,PRE_Engage,PRE_Natural,PRE_Realistic,PRE_Predict,PRE_Explore,PRE_Delay,CS_Dizzy,CS_Disorient,CS_ComfortMove,CS_EyeStrain,CS_Nausea,CS_Triggers
 B1,5,5,5,5,5,7,7,7,5,7,7,7,7,5,5,5,3,5,5
 B2,4,3,3,3,4,4,5,5,4,5,5,5,4,3,4,4,4,4,4
 B3,3,4,4,4,3,5,7,6,3,5,7,7,2,1,3,4,2,2,2
